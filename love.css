@@ -1,0 +1,48 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image: url(love4.jpeg);
+    background-size: cover;
+
+    background-repeat: no-repeat;
+
+}
+div{
+    width:400px;
+    height:500px;
+    background-color: transparent;
+    padding:20px;
+    margin:0 auto;
+    margin: top 50px;
+}
+a{
+    display:flex;
+    justify-content: center;
+    text-decoration: none;
+    background-color: blue;
+    padding: 10px;
+    margin: 0px 6px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+}
+#result{
+    display:flex;
+    justify-content: center;
+    background-color:red;
+    margin: 20px;
+    padding: 20px 50px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+}
+
+#statement{
+    display:flex;
+    justify-content: center;
+    margin-top: 50px;
+    text-transform: uppercase;
+    font-size: 20px;
+}
